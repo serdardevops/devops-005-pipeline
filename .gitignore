@@ -33,6 +33,8 @@ yarn-error.log*
 .terraform
 /.terraform
 
+terraform.tfstate
+.terraform.tfstate
 /terraform.tfstate
 
 devops-terraform/02_MontitoringServer/terraform.tfstate
@@ -40,4 +42,9 @@ devops-terraform/02_MontitoringServer/terraform.tfstate
 .terraform.tfvars
 /terraform.tfvars
 terraform.tfvars
+
+terraform.tfstate.backup
+.terraform.tfstate.backup
+/terraform.tfstate.backup
+
 
