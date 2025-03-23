@@ -24,3 +24,4 @@ resource "null_resource" "jenkins_server" {
     password = var.ssh_password  
     port     = 22                
   }
+}
